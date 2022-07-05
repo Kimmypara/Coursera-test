@@ -1,3 +1,16 @@
-h1 {
+h1{
 	text-align: center;
+	color: black;
+
+}
+h2, h3, h4 {
+	font-size: 16px;
+	text-align: right;
+	border: 5px;
+	border-color:solid black;
+	
+	background-color: blueviolet;
+	padding: 2px;
+
+
 }
