@@ -29,3 +29,6 @@ body {
 .navbar-brand  h1  span{
 	vertical-align: text-centre;
 }
+nav button span{
+	align-content: right;
+}
